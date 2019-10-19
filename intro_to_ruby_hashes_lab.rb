@@ -9,7 +9,9 @@ actor_hash = {
 end
 
 def monopoly
-	monopoly = {}
+	monopoly = {
+    railroads: {}
+  }
 
 end
 
